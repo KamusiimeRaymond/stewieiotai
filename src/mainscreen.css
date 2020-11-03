@@ -1,0 +1,27 @@
+.mainscreen {
+    padding: 0 20px;
+    margin-top: -170px;
+    position: relative;
+}
+
+.header{
+    color: white;
+    text-align: center;
+    font-family: headingfont;
+    font-weight: 10000;
+    font-size: 30px;
+}
+
+.content {
+    margin: auto;
+    padding: 20px;
+}
+
+.chatbot {
+}
+
+/*Fonts*/
+@font-face {
+    font-family: headingfont;
+    src: url(./components/font/Quicksand-Regular.otf);
+}
